@@ -70,6 +70,6 @@ The following PivotTables were created:
 - Basic data quality checks and profiling
 
 ## Screenshots
-![Dashboard Overview](screenshots/dashboard_astoria.png)
-![Dashboard Overview](screenshots/dashboard_hellskitchen.png)
-![Dashboard Overview](screenshots/dashboard_lowermanhattan.png)
+![Dashboard Overview](Screenshot/dashboard_astoria.png)
+![Dashboard Overview](Screenshot/dashboard_hellskitchen.png)
+![Dashboard Overview](Screenshot/dashboard_lowermanhattan.png)
