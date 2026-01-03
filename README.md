@@ -70,6 +70,11 @@ The following PivotTables were created:
 - Basic data quality checks and profiling
 
 ## Screenshots
+### Astoria's Dashboard
 ![Dashboard Overview](Screenshot/dashboard_astoria.PNG)
+
+### Hell's Kitchen's Dashboard
 ![Dashboard Overview](Screenshot/dashboard_hellskitchen.PNG)
+
+### Lower Manhattan's Dashboard
 ![Dashboard Overview](Screenshot/dashboard_lowermanhattan.PNG)
